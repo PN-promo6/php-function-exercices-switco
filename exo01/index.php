@@ -10,3 +10,4 @@ function sumAll(int $n)
 }
 
 echo sumAll(8);
+// additionne 1+2+3+4+5+6+7 = 28

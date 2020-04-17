@@ -15,4 +15,4 @@ function decodeDNA(string $gen1, string $gen2)
     }
     return $adn;
 }
-echo decodeDNA('abc', 'aaagyt');
+echo decodeDNA('CGATCAATCCAAA', 'ATCCGCCAATAAA');
